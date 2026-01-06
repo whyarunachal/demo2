@@ -1,0 +1,8 @@
+{
+  "name": "Ronohills",
+  "description": "High-performance website for Ronohills, integrating neuroscience and AI to make flow state trainable and scalable for elite performers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
